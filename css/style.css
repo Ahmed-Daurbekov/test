@@ -1,3 +1,9 @@
 body {
     background: #0cd61d;
 }
+
+p {
+    color: blueviolet;
+    background: darkblue;
+    font-size: 20px;
+}
