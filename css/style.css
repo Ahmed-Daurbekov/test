@@ -11,3 +11,8 @@ p {
 .l10 {
     background: yellow;
 }
+
+.del {
+    background: red;
+    color: navy;
+}
